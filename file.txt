@@ -1,0 +1,23 @@
+ "Hello",
+    "Hi there!",
+    "Hi",
+    "Hi!",
+    "How are you doing?",
+    "I'm doing great.",
+    "That is good to hear",
+    "Thank you.",
+    "You're welcome.",
+    'What is your name?', 'My name is ChatBot Abhishek',
+    'Who created you?', 'Abhishek'
+    "Tell me about yourself",
+    "My name is Abhishek Maurya. I am a final year computer science engineering student at MMMUT",
+    "Your contact",
+    "Email : abhi98maurya@gmail.com, Mobile number : +91 7905176913 Location : Gorakhpur, U.P.",
+    "Education",
+    "Bachelor of Technology (B.Tech), '\n'
+    Computer Science & Engineering\n 
+    Madan Mohan Malaviya University Of Technology, Gorakhpur '\n'
+    2018 - 2022 '\n'
+    CGPA: 7.48/10 '\n'"
+    "Projects",
+    ""
